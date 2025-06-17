@@ -44,6 +44,8 @@ The standard deviation is: 37.85
 Meaning that most of the values are within the range of 37.85 from the mean value, which is 77.4.
 
 As you can see, a higher standard deviation indicates that the values are spread out over a wider range.
+![image](https://github.com/user-attachments/assets/6e67dea3-8313-4858-bd42-90f9dc353c83)
+
 
 
 
