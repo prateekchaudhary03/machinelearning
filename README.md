@@ -85,6 +85,7 @@ To calculate the variance you have to do as follows:
 (2061.16+1128.96+3672.36+2440.36+338.56+0.16+384.16) / 7 = 1432.2
 
 Luckily, NumPy has a method to calculate the variance:
+![image](https://github.com/user-attachments/assets/9eb1772b-2756-4fd6-82cc-47a4307dcce8)
 
 
 
